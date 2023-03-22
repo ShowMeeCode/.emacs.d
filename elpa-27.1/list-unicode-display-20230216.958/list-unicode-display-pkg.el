@@ -1,0 +1,2 @@
+;;; Generated package description from list-unicode-display-20230216.958/list-unicode-display.el  -*- no-byte-compile: t -*-
+(define-package "list-unicode-display" "20230216.958" "Search for and list unicode characters by name" '((emacs "24.3")) :commit "57b4384ebe0c5d10890ee0dfcf66d0b16e5f5060" :authors '(("Steve Purcell" . "steve@sanityinc.com")) :maintainer '("Steve Purcell" . "steve@sanityinc.com") :keywords '("convenience"))
