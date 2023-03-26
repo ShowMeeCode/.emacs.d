@@ -23,4 +23,7 @@
 
 (global-set-key (kbd "M-w") 'copy-to-clipboard)
 
+(setq c-default-style "linux"
+      c-basic-offset 4)
+
 (provide 'init-local)
