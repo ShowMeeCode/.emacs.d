@@ -26,4 +26,7 @@
 (setq c-default-style "linux"
       c-basic-offset 4)
 
+(require 'auto-complete)
+(global-auto-complete-mode t)
+
 (provide 'init-local)
